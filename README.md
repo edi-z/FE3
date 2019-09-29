@@ -21,19 +21,19 @@ Q2 32.768kHz TC26H crystal
     
 3x D1-D3 BAT85    
     
-* 7x C1-C5 & C9 -C10 100nF Ceramic
-* 2x C6-C7 33/27pF Ceramic 
-* 1x C8 22µF ELKO
-* 1x C11 22pF Ceramic	
+7x C1-C5 & C9/C10 100nF Ceramic    
+2x C6-C7 33/27pF Ceramic     
+1x C8 22µF ELKO    
+1x C11 22pF Ceramic	    
 	
-* 1x LED 3mm Green	
-* 1x LED 3mm Yellow	
-
-* 3x R1-R3 3,3 kΩ
-* 5x R4-R7 & R8/R9 1,8 kΩ	
-* 3x R7/R12/R13 10 kΩ	
-* 2x R10/R11 470 Ω	
-
+1x LED 3mm Green    
+1x LED 3mm Yellow    	
+    
+3x R1-R3 3,3 kΩ    
+5x R4-R7 & R8/R9 1,8 kΩ    	
+3x R7/R12/R13 10 kΩ    	
+2x R10/R11 470 Ω    	
+    
 ### Firmware SD2IEC
 
 ### Firmware AS1504AS
