@@ -7,7 +7,5 @@
 (Die Pläne für die FE3 sind frei erhältlich und die Software ist Open Source)
 
 <img src="https://raw.githubusercontent.com/edi-z/FE3/master/images/FE3_Rev10c_PCB_blank.jpg">
-![Layout](images/FE3_Rev10c_PCB_blank.jpg)
-
 
 ### Parts
