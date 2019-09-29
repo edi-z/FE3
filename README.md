@@ -13,10 +13,10 @@ https://github.com/edi-z/FE3/blob/master/images/FE3_V3_REV10c.pdf
 3x BAT85    
     
 7x 100nF Ceramic    
-2x 33/27pF Ceramic
-1x 22pF Ceramic	 
-1x 22µF ELKO       
-    	
+2x 33/27pF Ceramic    
+1x 22pF Ceramic	    
+1x 22µF ELKO    
+    
 3x 3,3 kΩ    
 6x 1,8 kΩ    
 3x 10 kΩ    
