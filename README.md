@@ -1,5 +1,5 @@
 ## Final Expansion FE3 for Commodore VIC-20 / VC-20 | PCB Eagle / Gerber
-<img width="300" src="https://raw.githubusercontent.com/edi-z/FE3/master/images/FE3.jpg">
+<img width="450" src="https://raw.githubusercontent.com/edi-z/FE3/master/images/FE3.jpg">
 
 ### Info Final Expansion FE3
 * EN: http://sleepingelephant.com/denial/wiki/index.php?title=Final_Expansion </br>
