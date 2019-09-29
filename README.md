@@ -17,10 +17,10 @@ https://github.com/edi-z/FE3/blob/master/images/FE3_V3_REV10c.pdf
 1x 22pF Ceramic	    
 1x 22µF ELKO    
     
-3x 3,3 kΩ    
-6x 1,8 kΩ    
-3x 10 kΩ    
 2x 470 Ω    
+6x 1,8 kΩ    
+3x 3,3 kΩ    
+3x 10 kΩ    
     
 ATMEGA1284P 5V DIL40    
 AM29F040B DIL32    
