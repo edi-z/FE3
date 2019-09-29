@@ -8,7 +8,7 @@
 (Die Pläne für die FE3 sind frei erhältlich und die Software ist Open Source)
 
 ### Parts
-IC3 ATMEGA1284P_5V DIL40    
+IC3 ATMEGA1284P 5V DIL40    
 IC1 AM29F040B DIL32    
 IC2 SRAM 628512 DIL32    
 IC5 74LS245N DIL20    
