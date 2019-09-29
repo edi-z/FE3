@@ -15,12 +15,12 @@ IC5 74LS245N DIL20
 IC6 PCF8583P DIL08    
 IC4 3V REG. SOT223    
 U1 CPLD-ATF1504-AS S44
-
-* Q1 8.000MHz HC49U-V crystal
-* Q2 32.768kHz TC26H crystal
-
-* 3x D1-D3 BAT85	
-
+    
+Q1 8.000MHz HC49U-V crystal    
+Q2 32.768kHz TC26H crystal    
+    
+3x D1-D3 BAT85    
+    
 * 7x C1-C5 & C9 -C10 100nF Ceramic
 * 2x C6-C7 33/27pF Ceramic 
 * 1x C8 22µF ELKO
