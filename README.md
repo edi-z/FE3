@@ -36,9 +36,10 @@ ATF1504-AS CPLD PLCC44
 LED 3mm Green    
 LED 3mm Yellow    
 SD Card Connector    
-Battery 2032 Holder    
 Taster Red    
 Taster Green    
+Battery 2032    
+Battery 2032 Holder    
       
 1x IC Socket DIL40    
 2x IC Socket DIL32    
