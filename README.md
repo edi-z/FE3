@@ -35,7 +35,7 @@ LED 3mm Green
 LED 3mm Yellow    
 SD Card Connector    
 Battery 2032 Holder    
-Taster Red
+Taster Red    
 Taster Green
     
 ### Firmware SD2IEC
