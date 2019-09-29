@@ -27,8 +27,8 @@ AM29F040B DIL32
 SRAM 628512 DIL32    
 74LS245N DIL20    
 PCF8583P DIL08    
+ATF1504-AS CPLD PLCC44    
 3V REG. LD1117S33CTR SOT223    
-CPLD-ATF1504-AS S44
     
 8.000MHz HC49U-V crystal    
 32.768kHz TC26H crystal     
@@ -38,7 +38,12 @@ LED 3mm Yellow
 SD Card Connector    
 Battery 2032 Holder    
 Taster Red    
-Taster Green
+Taster Green    
+      
+1x IC Socket DIL40    
+2x IC Socket DIL32    
+1x IC Socket DIL20    
+1x IC Socket PLCC44
     
 ### Firmware SD2IEC
 
