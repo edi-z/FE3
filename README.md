@@ -30,9 +30,9 @@ Q2 32.768kHz TC26H crystal
 1x LED 3mm Yellow    	
     
 3x R1-R3 3,3 kΩ    
-5x R4-R7 & R8/R9 1,8 kΩ    	
-3x R7/R12/R13 10 kΩ    	
-2x R10/R11 470 Ω    	
+5x R4-R7 & R8/R9 1,8 kΩ    
+3x R7/R12/R13 10 kΩ    
+2x R10/R11 470 Ω    
     
 ### Firmware SD2IEC
 
