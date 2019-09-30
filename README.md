@@ -28,7 +28,7 @@
 1x SRAM 628512 DIL32    
 1x 74LS245N DIL20    
 1x PCF8583P DIL08    
-1x ATF1504-AS CPLD PLCC44    
+1x ATF1504-AS(V) CPLD PLCC44    
 1x 3V REG. LD1117S33CTR SOT223    
     
 1x 8.000MHz HC49U-V crystal    
@@ -50,7 +50,7 @@
 1x IC Socket PLCC44
 
 ### Jumper
-**JP1** AS1504AS Volt select 3-2=5V / 1-2=3.3V      
+**JP1** AS1504AS(V) Volt select 3-2=5V / 1-2=3.3V      
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
     
