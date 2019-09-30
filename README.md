@@ -7,8 +7,8 @@
 * DE: https://oe7twj.at/index.php?title=Final_Expansion_3:</br>
 (Die Pläne für die FE3 sind frei erhältlich und die Software ist Open Source)
 
-### Parts
-https://github.com/edi-z/FE3/blob/master/images/FE3_V3_REV10c.pdf
+### Parts    
+[Parts plan](images/FE3_V3_REV10c.pdf)
 
 3x BAT85    
     
@@ -22,24 +22,24 @@ https://github.com/edi-z/FE3/blob/master/images/FE3_V3_REV10c.pdf
 3x 3,3 kΩ    
 3x 10 kΩ    
     
-ATMEGA1284P 5V DIL40    
-AM29F040B DIL32    
-SRAM 628512 DIL32    
-74LS245N DIL20    
-PCF8583P DIL08    
-ATF1504-AS CPLD PLCC44    
-3V REG. LD1117S33CTR SOT223    
+1x ATMEGA1284P 5V DIL40    
+1x AM29F040B DIL32    
+1x SRAM 628512 DIL32    
+1x 74LS245N DIL20    
+1x PCF8583P DIL08    
+1x ATF1504-AS CPLD PLCC44    
+1x 3V REG. LD1117S33CTR SOT223    
     
-8.000MHz HC49U-V crystal    
-32.768kHz TC26H crystal     
+1x 8.000MHz HC49U-V crystal    
+1x 32.768kHz TC26H crystal     
     
-LED 3mm Green    
-LED 3mm Yellow    
-SD Card Connector    
-Taster Red    
-Taster Green    
-Battery 2032    
-Battery 2032 Holder    
+1x LED 3mm Green    
+1x LED 3mm Yellow    
+1x SD Card Connector    
+1x Taster Red    
+1x Taster Green    
+1x Battery 2032    
+1x Battery 2032 Holder    
       
 1x IC Socket DIL40    
 2x IC Socket DIL32    
