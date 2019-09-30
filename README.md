@@ -1,5 +1,5 @@
 ## Final Expansion FE3 for Commodore VIC-20 / VC-20 | PCB Eagle / Gerber
-<img width="450" src="https://raw.githubusercontent.com/edi-z/FE3/master/images/FE3.jpg">
+[Bild]!(images/FE3.jpg)
 
 ### Info Final Expansion FE3
 * EN: http://sleepingelephant.com/denial/wiki/index.php?title=Final_Expansion </br>
@@ -46,10 +46,10 @@
 1x IC Socket DIL20    
 1x IC Socket PLCC44
 
-###Jumper
-#####JP1
-#####JP2
-#####JP3
+###Jumper    
+**JP1**    
+**JP2**    
+**JP3**    
     
 ### Firmware SD2IEC
 
