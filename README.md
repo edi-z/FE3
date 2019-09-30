@@ -39,6 +39,7 @@
 1x Taster Red    
 1x Taster Green    
 1x 4 pin dip switch    
+1x MAS60 Connector male    
 1x Battery 2032    
 1x Battery 2032 Holder    
 1x SD Card Connector  
