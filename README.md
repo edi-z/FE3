@@ -39,7 +39,7 @@
 1x Taster Red    
 1x Taster Green    
 1x 4 pin dip switch    
-1x MAS60 Connector male [Pnout](https://www.c64-wiki.com/wiki/Serial_Port)    
+1x MAS60 Connector male & cable [Pnout](https://www.c64-wiki.com/wiki/Serial_Port)    
 1x Battery 2032    
 1x Battery 2032 Holder    
 1x SD Card Connector  
