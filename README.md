@@ -42,7 +42,7 @@
 1x MAS60 Connector male & cable [Pnout](https://www.c64-wiki.com/wiki/Serial_Port)    
 1x Battery 2032    
 1x Battery 2032 Holder [View](images/Battery_2032_Holder.jpg)     
-1x SD Card Connector [View](images/SD_Connector.jpg)    
+1x SD Memory Card Socket Slot 11Pin [View](images/SD_Connector.jpg)    
       
 1x IC Socket DIL40    
 2x IC Socket DIL32    
