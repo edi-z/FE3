@@ -51,14 +51,14 @@
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
     
-### Firmware SD2IEC for ATMEGA1284P     
+### ATMEGA1284P SD2IEC Firmware         
 Info EN: https://www.c64-wiki.com/wiki/SD2IEC   
 Info DE: https://www.c64-wiki.de/wiki/SD2IEC    
 Files: https://sd2iec.de    
 1. newboot-?*?-larsp-m1284p.hex program to ATMEGA1284P  
 2. sd2iec-?*?-larsp-m1284p.bin copy on SD-Card and SD2IEC will load/update the Firmware by power on
 
-### Firmware AS1504AS
+### AS1504AS
 
 
-### Firmware 
+### AM29F040B FE3 Firmware 
