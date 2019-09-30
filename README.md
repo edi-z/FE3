@@ -19,7 +19,7 @@
 1x 22µF Electrolytic    
     
 2x 470 Ω    
-6x 1,8 kΩ    
+5x 1,8 kΩ    
 3x 3,3 kΩ    
 3x 10 kΩ    
     
