@@ -58,7 +58,11 @@ Files: https://sd2iec.de
 1. newboot-?*?-larsp-m1284p.hex program to ATMEGA1284P  
 2. sd2iec-?*?-larsp-m1284p.bin copy on SD-Card and SD2IEC will load/update the Firmware by power on
 
-### AS1504AS
+### AS1504AS CPLD Files
+https://github.com/ops/FE3-Firmware/tree/master/cpld    
 
 
 ### AM29F040B FE3 Firmware 
+https://ops.github.io/FE3-Firmware/
+1. Copy files (min. fe3flash.prg & fe3firmware) on SD-Card
+2. Start fe3flash.prg on VIC-20
