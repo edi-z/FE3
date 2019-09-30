@@ -39,7 +39,7 @@
 1x Taster Red    
 1x Taster Green    
 1x Battery 2032    
-1x Battery 2032 Holder
+1x Battery 2032 Holder    
 1x SD Card Connector  
       
 1x IC Socket DIL40    
