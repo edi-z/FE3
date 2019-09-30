@@ -1,5 +1,5 @@
 ## Final Expansion FE3 for Commodore VIC-20 / VC-20 | PCB Eagle / Gerber
-[Bild]!(images/FE3.jpg)
+![](images/FE3.jpg)
 
 ### Info Final Expansion FE3
 * EN: http://sleepingelephant.com/denial/wiki/index.php?title=Final_Expansion </br>
@@ -15,7 +15,7 @@
 7x 100nF Ceramic    
 2x 33/27pF Ceramic    
 1x 22pF Ceramic	    
-1x 22µF ELKO    
+1x 22µF Electrolytic    
     
 2x 470 Ω    
 6x 1,8 kΩ    
@@ -47,9 +47,12 @@
 1x IC Socket PLCC44
 
 ###Jumper    
-**JP1**    
+**JP1** AS1504AS Volt select 3-2=5V / 1-2=3.3V     
 **JP2**    
 **JP3**    
+**JP4** SD2IEC Disk up switch    
+**JP5** SD2IEC Disk down switch    
+**JP6**    
     
 ### Firmware SD2IEC
 
