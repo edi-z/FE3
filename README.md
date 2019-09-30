@@ -34,19 +34,19 @@
 1x 32.768kHz TC26H crystal     
     
 1x LED 3mm Green    
-1x LED 3mm Yellow    
-1x SD Card Connector    
+1x LED 3mm Yellow      
 1x Taster Red    
 1x Taster Green    
 1x Battery 2032    
-1x Battery 2032 Holder    
+1x Battery 2032 Holder
+1x SD Card Connector  
       
 1x IC Socket DIL40    
 2x IC Socket DIL32    
 1x IC Socket DIL20    
 1x IC Socket PLCC44
 
-### Jumper    
+### Jumper
 **JP1** AS1504AS Volt select 3-2=5V / 1-2=3.3V      
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
