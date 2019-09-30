@@ -54,7 +54,7 @@
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
     
-### AS1504AS – CPLD Files
+### ATF1504-AS – CPLD Files
 https://github.com/ops/FE3-Firmware/tree/master/cpld    
     
 ### ATMEGA1284P – SD2IEC Firmware         
