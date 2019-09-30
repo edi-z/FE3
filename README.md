@@ -46,7 +46,7 @@
 1x IC Socket DIL20    
 1x IC Socket PLCC44
 
-###Jumper    
+### Jumper    
 **JP1** AS1504AS Volt select 3-2=5V / 1-2=3.3V      
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
