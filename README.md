@@ -6,7 +6,8 @@
 (The schematic of the FE3 is available and the firmware is open source) 
 * DE: https://oe7twj.at/index.php?title=Final_Expansion_3</br>
 (Die Pläne für die FE3 sind frei erhältlich und die Software ist Open Source)
-
+    
+    
 ### Parts    
 [Parts plan](images/FE3_V3_REV10c.pdf)
 
