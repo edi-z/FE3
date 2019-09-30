@@ -45,6 +45,11 @@
 2x IC Socket DIL32    
 1x IC Socket DIL20    
 1x IC Socket PLCC44
+
+###Jumper
+#####JP1
+#####JP2
+#####JP3
     
 ### Firmware SD2IEC
 
