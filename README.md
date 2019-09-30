@@ -56,8 +56,8 @@
 Info EN: https://www.c64-wiki.com/wiki/SD2IEC   
 Info DE: https://www.c64-wiki.de/wiki/SD2IEC    
 Files: https://sd2iec.de    
-1. newboot-?*?-larsp-m1284p.hex program to ATMEGA1284P  
-2. sd2iec-?*?-larsp-m1284p.bin copy on SD-Card and SD2IEC will load/update the Firmware by power on
+1. **newboot-?*?-larsp-m1284p.hex** program to ATMEGA1284P  
+2. **sd2iec-?*?-larsp-m1284p.bin** copy on SD-Card and SD2IEC will load/update the Firmware by power on
 
 ### AS1504AS CPLD Files
 https://github.com/ops/FE3-Firmware/tree/master/cpld    
