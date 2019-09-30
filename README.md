@@ -4,7 +4,7 @@
 ### Info Final Expansion FE3
 * EN: http://sleepingelephant.com/denial/wiki/index.php?title=Final_Expansion </br>
 (The schematic of the FE3 is available and the firmware is open source) 
-* DE: https://oe7twj.at/index.php?title=Final_Expansion_3:</br>
+* DE: https://oe7twj.at/index.php?title=Final_Expansion_3</br>
 (Die Pläne für die FE3 sind frei erhältlich und die Software ist Open Source)
 
 ### Parts    
@@ -51,8 +51,12 @@
 **JP4** SD2IEC Disk up switch    
 **JP5** SD2IEC Disk down switch      
     
-### Firmware SD2IEC
+### Firmware SD2IEC for ATMEGA1284P     
+https://sd2iec.de    
+1. newboot-?*?-larsp-m1284p.hex
+2. sd2iec-?*?-larsp-m1284p.bin Copy on SD-Card and SD2IEC will load/update the Firmware
 
 ### Firmware AS1504AS
+
 
 ### Firmware 
