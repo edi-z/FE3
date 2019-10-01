@@ -29,7 +29,7 @@
 1x 74LS245N DIL20    
 1x PCF8583P DIL08    
 1x ATF1504-AS(V) CPLD PLCC44    
-1x 3V REG. LD1117S33CTR SOT223    
+1x 3V REG. LD1117S33CTR SOT223 [Pinout](images/volt_reg.jpg)      
     
 1x 8.000MHz HC49U-V crystal    
 1x 32.768kHz TC26H crystal     
